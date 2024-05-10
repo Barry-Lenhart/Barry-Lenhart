@@ -8,6 +8,9 @@
 <h2>🪪 Certifications</h2>
 
 - [Google Cybersecurity](https://www.credly.com/badges/165c0d6e-6c5b-4afe-9533-0ff0420ba420)
+<br />
+  <img src="https://i.imgur.com/a3eueyc.jpeg" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+  
 
 
 <h2> 🤳 Connect with me:</h2>
